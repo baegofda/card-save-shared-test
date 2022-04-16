@@ -3,6 +3,12 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+if (window.Kakao) {
+  const kakao = window.Kakao;
+  if (!kakao.isInitialized()) {
+    kakao.init("e41efab98dfe045c9d7ce45f8b320444");
+  }
+}
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

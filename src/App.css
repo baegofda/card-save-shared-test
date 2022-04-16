@@ -43,12 +43,12 @@
 }
 
 .grade-card {
-  width: 500px;
+  width: 100vw;
   height: 500px;
   padding: 200px;
   background-color: gold;
 }
 
-.card-save {
+.btn {
   margin: 40px;
 }
