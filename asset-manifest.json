@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/card-save-shard-test/static/css/main.253e65a1.css",
-    "main.js": "/card-save-shard-test/static/js/main.23a0f8c2.js",
+    "main.js": "/card-save-shard-test/static/js/main.557f95dd.js",
     "static/js/787.54e98987.chunk.js": "/card-save-shard-test/static/js/787.54e98987.chunk.js",
     "index.html": "/card-save-shard-test/index.html",
     "main.253e65a1.css.map": "/card-save-shard-test/static/css/main.253e65a1.css.map",
-    "main.23a0f8c2.js.map": "/card-save-shard-test/static/js/main.23a0f8c2.js.map",
+    "main.557f95dd.js.map": "/card-save-shard-test/static/js/main.557f95dd.js.map",
     "787.54e98987.chunk.js.map": "/card-save-shard-test/static/js/787.54e98987.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.253e65a1.css",
-    "static/js/main.23a0f8c2.js"
+    "static/js/main.557f95dd.js"
   ]
 }
