@@ -1,4 +1,9 @@
 .App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
   text-align: center;
 }
 
@@ -35,4 +40,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.grade-card {
+  width: 500px;
+  height: 500px;
+  padding: 200px;
+  background-color: gold;
+}
+
+.card-save {
+  margin: 40px;
 }
